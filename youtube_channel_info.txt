@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 BNC | TAISHI HD |  |
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/watch?v=uDqQo8a7Xmk
+https://mygoodstream.pw/proxy.php?https://www.youtube.com/watch?v=uDqQo8a7Xmk&feature=youtu.be&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
